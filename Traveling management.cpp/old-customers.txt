@@ -1,0 +1,7 @@
+
+Customer ID: 317
+Name: rahul
+Age: 0
+Mobile Number: 10060984
+Address: 
+Gender: 
